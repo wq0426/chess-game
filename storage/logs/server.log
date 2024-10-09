@@ -1,0 +1,24 @@
+2024-10-09 15:40:40.358301000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 15:42:21.425009000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 15:42:26.000858000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 15:46:46.247901000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 15:47:04.936349000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 15:47:36.450638000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 15:47:40.482741000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 15:48:01.030887000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 15:48:25.333903000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 15:48:52.185717000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 15:49:32.877825000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 16:15:01.400556000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 16:32:54.446557000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 16:34:31.849485000	[35mdebug[0m	/Users/ac/go/src/chess/internal/repository/rank.go:47	Error 1292 (22007): Incorrect datetime value: '' for column 'created_at' at row 1, bot info: {"region":"shanghai","account_name":"Alice"}
+2024-10-09 16:34:31.849560000	[34minfo[0m	/Users/ac/go/src/chess/internal/handler/rank.go:47	Add rank	{"param": {"region":"shanghai","account_name":"Alice"}}
+2024-10-09 16:35:25.700810000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 16:35:28.547042000	[34minfo[0m	/Users/ac/go/src/chess/internal/handler/rank.go:47	Add rank	{"param": {"region":"shanghai","account_name":"Alice"}}
+2024-10-09 16:36:13.950430000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 16:36:22.032125000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 16:37:10.877953000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 16:37:29.850071000	[34minfo[0m	/Users/ac/go/src/chess/internal/handler/rank.go:47	Add rank	{"param": {"region":"fujian","account_name":"Bob"}}
+2024-10-09 16:40:09.067233000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 16:41:22.075052000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
+2024-10-09 16:43:13.789774000	[34minfo[0m	/Users/ac/go/src/chess/cmd/server/main.go:16	server start	{"host": "http://127.0.0.1:8090"}
